@@ -1,0 +1,3 @@
+paciencia
+dama
+truco
